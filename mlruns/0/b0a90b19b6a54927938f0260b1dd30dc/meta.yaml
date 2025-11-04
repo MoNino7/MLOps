@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b0a90b19b6a54927938f0260b1dd30dc/artifacts
+end_time: 1762266604186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0a90b19b6a54927938f0260b1dd30dc
+run_name: skittish-sponge-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266599407
+status: 3
+tags: []
+user_id: mo

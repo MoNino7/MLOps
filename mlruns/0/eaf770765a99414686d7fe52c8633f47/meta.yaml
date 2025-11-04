@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eaf770765a99414686d7fe52c8633f47/artifacts
+deleted_time: 1762266556599
+end_time: 1762266510424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: eaf770765a99414686d7fe52c8633f47
+run_name: gaudy-midge-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266504540
+status: 3
+tags: []
+user_id: mo

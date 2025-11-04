@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/72541893851a4c6887da4009ce2414e1/artifacts
+deleted_time: 1762266556630
+end_time: 1762266486718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 72541893851a4c6887da4009ce2414e1
+run_name: overjoyed-quail-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266480966
+status: 3
+tags: []
+user_id: mo

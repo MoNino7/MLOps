@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/0/models/m-60bed2301a704eda8022c964e676483d/artifacts
+creation_timestamp: 1762266499091
+experiment_id: '0'
+last_updated_timestamp: 1762266504372
+model_id: m-60bed2301a704eda8022c964e676483d
+model_type: ''
+name: model
+source_run_id: 6911e37a369f4aa6ae18a253ddd785f2
+status: 2
+status_message: null

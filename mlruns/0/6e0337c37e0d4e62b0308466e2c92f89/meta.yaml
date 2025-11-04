@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6e0337c37e0d4e62b0308466e2c92f89/artifacts
+end_time: 1762266642921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e0337c37e0d4e62b0308466e2c92f89
+run_name: learned-carp-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266637955
+status: 3
+tags: []
+user_id: mo

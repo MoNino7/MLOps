@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1a3231381f1d468d9012e000b47352e8/artifacts
+end_time: 1762266637839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a3231381f1d468d9012e000b47352e8
+run_name: casual-cow-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266633160
+status: 3
+tags: []
+user_id: mo

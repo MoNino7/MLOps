@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fb6fb73bfbf04cc9aa3b08995e403bfb/artifacts
+deleted_time: 1762266556632
+end_time: 1762266492553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fb6fb73bfbf04cc9aa3b08995e403bfb
+run_name: casual-auk-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266486860
+status: 3
+tags: []
+user_id: mo

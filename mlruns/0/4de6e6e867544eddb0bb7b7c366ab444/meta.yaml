@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4de6e6e867544eddb0bb7b7c366ab444/artifacts
+end_time: 1762266618329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4de6e6e867544eddb0bb7b7c366ab444
+run_name: thoughtful-mouse-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266613448
+status: 3
+tags: []
+user_id: mo

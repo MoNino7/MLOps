@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cbb57e7650254e908b5aeb2c3db03faf/artifacts
+deleted_time: 1762266556633
+end_time: 1762266330041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cbb57e7650254e908b5aeb2c3db03faf
+run_name: unequaled-crow-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266323362
+status: 3
+tags: []
+user_id: mo

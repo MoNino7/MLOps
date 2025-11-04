@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/64fcffacd6534f099daf2f7ea6e3a930/artifacts
+end_time: 1762266623097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64fcffacd6534f099daf2f7ea6e3a930
+run_name: loud-rat-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266618500
+status: 3
+tags: []
+user_id: mo

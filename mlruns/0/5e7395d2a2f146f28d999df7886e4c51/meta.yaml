@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5e7395d2a2f146f28d999df7886e4c51/artifacts
+end_time: 1762266608648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e7395d2a2f146f28d999df7886e4c51
+run_name: indecisive-stoat-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266604343
+status: 3
+tags: []
+user_id: mo

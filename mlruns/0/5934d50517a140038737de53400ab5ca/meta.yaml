@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5934d50517a140038737de53400ab5ca/artifacts
+deleted_time: 1762266556637
+end_time: 1762266498452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5934d50517a140038737de53400ab5ca
+run_name: treasured-moth-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762266492668
+status: 3
+tags: []
+user_id: mo
