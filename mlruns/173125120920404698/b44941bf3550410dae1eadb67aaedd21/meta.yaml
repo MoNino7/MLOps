@@ -1,0 +1,14 @@
+artifact_uri: file:///home/mo/Uni/5Semester/MLO/uebung/mlruns/173125120920404698/b44941bf3550410dae1eadb67aaedd21/artifacts
+end_time: 1762268630972
+entry_point_name: ''
+experiment_id: '173125120920404698'
+lifecycle_stage: active
+run_id: b44941bf3550410dae1eadb67aaedd21
+run_name: peaceful-loon-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762268627427
+status: 3
+tags: []
+user_id: mo

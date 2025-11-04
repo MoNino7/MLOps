@@ -1,0 +1,14 @@
+artifact_uri: file:///home/mo/Uni/5Semester/MLO/uebung/mlruns/173125120920404698/3582fccddb394dcca14ddac1e131760b/artifacts
+end_time: 1762268631007
+entry_point_name: ''
+experiment_id: '173125120920404698'
+lifecycle_stage: active
+run_id: 3582fccddb394dcca14ddac1e131760b
+run_name: redolent-roo-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762268630991
+status: 3
+tags: []
+user_id: mo

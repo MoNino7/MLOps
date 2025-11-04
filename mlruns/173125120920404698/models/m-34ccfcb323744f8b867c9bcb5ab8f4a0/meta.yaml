@@ -1,0 +1,10 @@
+artifact_location: file:///home/mo/Uni/5Semester/MLO/uebung/mlruns/173125120920404698/models/m-34ccfcb323744f8b867c9bcb5ab8f4a0/artifacts
+creation_timestamp: 1762268627453
+experiment_id: '173125120920404698'
+last_updated_timestamp: 1762268630971
+model_id: m-34ccfcb323744f8b867c9bcb5ab8f4a0
+model_type: null
+name: model
+source_run_id: b44941bf3550410dae1eadb67aaedd21
+status: 2
+status_message: null
